@@ -17,7 +17,7 @@ A home-goods manufacturer wants to predict expected profits from a catalog launc
 ### Data Wrangling
 Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types,dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
 
--Project: [Create an Analytical Dataset]()
+- Project: [Create an Analytical Dataset]()
 
 A pet store chain is selecting the location for its next store. You will use data preparation techniques to build a robust analytic dataset and use it to build a predictive model to select the best location.
 
