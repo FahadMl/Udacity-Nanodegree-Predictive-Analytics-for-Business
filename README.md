@@ -1,10 +1,14 @@
 # Predictive Analytics for Business Nanodegree
 
-### Fahad Abudjeen
+Learn to apply predictive analytics and business intelligence to solve real-world business problems.
+
 
 
 ### Problem Solving with Advanced Analytics
 In this course, we give you a framework to help you organize and plan your analytical approach. We also introduce both simple Linear Regression and Multiple Linear Regression.
+
+- PROJECT
+[Predict Sales for a Catalog Launch](https://github.com/FahadMl/Udacity-Nanodegree-Predictive-Analytics-for-Business/blob/master/2%20-%20Problem%20Solving%20with%20Advanced%20Analytics/Project_Predicting%20Catalog%20Demand.pdf)
 
 
 ### Data Wrangling
