@@ -17,7 +17,7 @@ A pet store chain is selecting the location for its next store. You will use dat
 A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation
 
 
-![Udacity Business Analyst Nanodegree](C:\Users\Fahad\Desktop\Personal\Eductation\Courses\Udacity-Nanodegree-Predictive-Analytics-for-Business\Udacity Nanodegree Program Graduate.MHT)
+![Udacity Business Analyst Nanodegree](file:///C:/Users/Fahad/Downloads/Udacity%20Nanodegree%20Program%20Graduate.webp)
 
 
 
