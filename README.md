@@ -9,12 +9,19 @@ In this course, we give you a framework to help you organize and plan your analy
 
 - Project:
 [Predict Sales for a Catalog Launch](https://github.com/FahadMl/Udacity-Nanodegree-Predictive-Analytics-for-Business/blob/master/2%20-%20Problem%20Solving%20with%20Advanced%20Analytics/Project_Predicting%20Catalog%20Demand.pdf)
+
 A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation.
 
 
 
 ### Data Wrangling
 Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types,dirty data, and outliers. You will also learn how to reformat data and join data from different sources together.
+
+-Project: [Create an Analytical Dataset]()
+
+A pet store chain is selecting the location for its next store. You will use data preparation techniques to build a robust analytic dataset and use it to build a predictive model to select the best location.
+
+
 
 
 
