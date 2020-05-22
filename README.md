@@ -7,7 +7,7 @@ This repository contains projects for Udacity's Predictive Analytics for Busines
 
 
 
-### [Predict Sales for a Catalog Launch](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/1-Problem-Solving-with-Advanced-Analytics/1.1-Predicting-Diamond-Price.ipynb)
+### [Predict Sales for a Catalog Launch](https://github.com/FahadMl/Udacity-Nanodegree-Predictive-Analytics-for-Business/blob/master/1%20-%20Welcome%20to%20the%20program/Project_Predicting%20Diamond%20Prices.pdf)
 A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation.
 
 
