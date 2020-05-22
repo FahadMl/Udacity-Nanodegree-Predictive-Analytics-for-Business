@@ -7,6 +7,12 @@ This repository contains projects for Udacity's Predictive Analytics for Busines
 ### Part 1: [Problem Solving with Advanced Analytics by Alteryx](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
 
+
+### [Predict Sales for a Catalog Launch](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/1-Problem-Solving-with-Advanced-Analytics/1.1-Predicting-Diamond-Price.ipynb)
+A home-goods manufacturer wants to predict expected profits from a catalog launch. You will apply a framework to work through the problem and build a linear regression model to provide results and a recommendation.
+
+
+
 - Project: [Predicting Diamond Prices](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/1-Problem-Solving-with-Advanced-Analytics/1.1-Predicting-Diamond-Price.ipynb)
 - Project: [Predicting Catalog Demand](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/1-Problem-Solving-with-Advanced-Analytics/1.2-Predicting-Catalog-Demand.ipynb)
 
